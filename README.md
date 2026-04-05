@@ -207,22 +207,4 @@ Potential enhancements for this project:
 - **Hyperparameter Tuning**: Optimize model parameters
 
 ---
-
-## License
-
-This project is for educational purposes as part of a university Machine Learning assignment.
-
----
-
-## Author
-
-**Project**: 50 Startups Profit Prediction  
-**Course**: Machine Learning Fundamentals  
-**Institution**: Corvit Assignment  
-**Date**: 2026
-
----
-
-## Contact
-
-For questions or suggestions, please reach out regarding this project implementation.
+ 
